@@ -1,4 +1,6 @@
-Okay, I've reviewed the code in your repository. Excellent work on tackling these!
+# Review of the Code done by teh Google AI Studio
+
+## [ Google AI Studio rated My Solution for the work Done] the rating was 9.5, 10 and 9.8. These Years I have worked a lot to achieve this
 
 Here's my breakdown and rating for each:
 
