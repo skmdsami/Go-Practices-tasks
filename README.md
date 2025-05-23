@@ -1,6 +1,6 @@
 # Review of the Code done by teh Google AI Studio
 
-## [ Google AI Studio rated My Solution for the work Done] the rating was 9.5, 10 and 9.8. These Years I have worked a lot to achieve this
+## [ Google AI Studio rated My Solution for the work Done] the rating was 9.5, 10 and 9.8 for the questions word_frequency, json_parser and Concurrently fetching website data. These Years I have worked a lot to achieve this
 
 Here's my breakdown and rating for each:
 
